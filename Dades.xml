@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lliga>
+    <club divisio="1" nom="Real Madrid">
+        <entrenador>
+            <nom>Carletto</nom>
+            <cognom>Ancelotti</cognom>
+        </entrenador>
+        <jugadors>
+            <jugador capita="True">
+                <nom>Sergio</nom>
+                <cognom>Ramos</cognom>
+                <dorsal>4</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Toni</nom>
+                <cognom>Kroos</cognom>
+                <dorsal>8</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Eden</nom>
+                <cognom>Hazard</cognom>
+                <dorsal>7</dorsal>
+            </jugador>
+    </club>
+    <club divisio="1" nom="Barcelona">
+        <entrenador>
+            <nom>Josep</nom>
+            <cognom>Guardiola</cognom>
+        </entrenador>
+        <jugadors>
+            <jugador capita="True">
+                <nom>Leo</nom>
+                <cognom>Messi</cognom>
+                <dorsal>10</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Andres</nom>
+                <cognom>Iniesta</cognom>
+                <dorsal>8</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Gerard</nom>
+                <cognom>Pique</cognom>
+                <dorsal>3</dorsal>
+            </jugador>
+        </jugadors>
+    </club>
+    <club divisio="2" nom="Valencia">
+        <entrenador>
+            <nom>Marcelino</nom>
+            <cognom>Garcia</cognom>
+        </entrenador>
+        <jugadors>
+            <jugador capita="True">
+                <nom>Carlos</nom>
+                <cognom>Soler</cognom>
+                <dorsal>18</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Geoffrey</nom>
+                <cognom>Kondogbia</cognom>
+                <dorsal>6</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Jose</nom>
+                <cognom>Gaya</cognom>
+                <dorsal>14</dorsal>
+            </jugador>
+        </jugadors>
+    </club>
+    <club divisio="2" nom="Sevilla">
+        <entrenador>
+            <nom>Pablo</nom>
+            <cognom>Machin</cognom>
+        </entrenador>
+        <jugadors>
+            <jugador capita="True">
+                <nom>Jesus</nom>
+                <cognom>Navas</cognom>
+                <dorsal>16</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Simon</nom>
+                <cognom>Kjaer</cognom>
+                <dorsal>4</dorsal>
+            </jugador>
+            <jugador>
+                <nom>Andre</nom>
+                <cognom>Silva</cognom>
+                <dorsal>12</dorsal>
+            </jugador>
+        </jugadors>
+    </club>
+</lliga>
