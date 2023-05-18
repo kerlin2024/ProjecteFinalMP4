@@ -1,0 +1,27 @@
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.exe
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.deps.json
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.runtimeconfig.json
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.dll
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.pdb
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.AssemblyReference.cache
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.Form1.resources
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.GenerateResource.cache
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.AssemblyInfoInputs.cache
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.AssemblyInfo.cs
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.CoreCompileInputs.cache
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.dll
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\refint\Proves1.dll
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.pdb
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.genruntimeconfig.cache
+C:\Users\kerlyn.murillo\source\repos\Proves1\Proves1\obj\Debug\net6.0-windows\ref\Proves1.dll
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.AssemblyReference.cache
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.Form1.resources
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.GenerateResource.cache
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.AssemblyInfoInputs.cache
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.AssemblyInfo.cs
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.CoreCompileInputs.cache
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.dll
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\refint\Proves1.dll
+C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.pdb
