@@ -25,3 +25,20 @@ C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\
 C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.dll
 C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\refint\Proves1.dll
 C:\Users\kerlyn.murillo\Desktop\1r DAW\MP04 Llenguatge de Marques\ProjecteFinal\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.pdb
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.AssemblyReference.cache
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.Form1.resources
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.GenerateResource.cache
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.AssemblyInfoInputs.cache
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.AssemblyInfo.cs
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.csproj.CoreCompileInputs.cache
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.dll
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\refint\Proves1.dll
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.pdb
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.exe
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.deps.json
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.runtimeconfig.json
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.dll
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\bin\Debug\net6.0-windows\Proves1.pdb
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\Proves1.genruntimeconfig.cache
+C:\Users\kerli\Desktop\1rDAW\MP04\ProjecteFinal\ProjecteFinalMP4\Proves1\Proves1\obj\Debug\net6.0-windows\ref\Proves1.dll

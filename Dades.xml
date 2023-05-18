@@ -22,6 +22,7 @@
                 <cognom>Hazard</cognom>
                 <dorsal>7</dorsal>
             </jugador>
+        </jugadors>
     </club>
     <club divisio="1" nom="Barcelona">
         <entrenador>

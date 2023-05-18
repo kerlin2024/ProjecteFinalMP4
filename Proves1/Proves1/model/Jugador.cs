@@ -18,5 +18,10 @@ namespace Proves1.model
             Cognom = cognom;
             Dorsal = dorsal;
         }
+
+        public Jugador()
+        {
+
+        }
     }
 }
