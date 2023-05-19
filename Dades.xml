@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lliga>
-    <club divisio="1" nom="Real Madrid">
+    <club divisio="1" nom="Real Madrid" id="1">
         <entrenador>
             <nom>Carletto</nom>
             <cognom>Ancelotti</cognom>
@@ -24,7 +24,7 @@
             </jugador>
         </jugadors>
     </club>
-    <club divisio="1" nom="Barcelona">
+    <club divisio="1" nom="Barcelona" id="2">
         <entrenador>
             <nom>Josep</nom>
             <cognom>Guardiola</cognom>
@@ -47,7 +47,7 @@
             </jugador>
         </jugadors>
     </club>
-    <club divisio="2" nom="Valencia">
+    <club divisio="2" nom="Valencia" id="3">
         <entrenador>
             <nom>Marcelino</nom>
             <cognom>Garcia</cognom>
@@ -70,7 +70,7 @@
             </jugador>
         </jugadors>
     </club>
-    <club divisio="2" nom="Sevilla">
+    <club divisio="2" nom="Sevilla" id="4">
         <entrenador>
             <nom>Pablo</nom>
             <cognom>Machin</cognom>

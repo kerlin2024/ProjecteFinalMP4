@@ -10,6 +10,7 @@ namespace Proves1.model
     {
         public string Nom { get; set; }
         public int Divisio { get; set; }
+        public int id { get; set; }
         public Entrenador Entrenador { get; set; }
         public Jugador Capita { get; set; }
         public List<Jugador> Jugadors { get; set; }

@@ -11,6 +11,7 @@ namespace Proves1.model
     public static class Lliga
     {
         private static List<Club> Clubs = new List<Club>();
+
         public static bool carregarModel(string filepath)
         {
             bool bres = false;
@@ -21,8 +22,9 @@ namespace Proves1.model
             foreach (XmlNode club in ElementsLliga)
             {
                 Club Club = new Club();
-                Club.Nom = club.Attributes["nom"].InnerText;
+                Club.Nom = club.Attributes["nom"].Value;
                 Club.Divisio = int.Parse(club.Attributes["divisio"].Value);
+                Club.id = int.Parse(club.Attributes["id"].Value);
                 Entrenador EntrenadorObj = new Entrenador();
                 XmlNode entrenadorNode = club.SelectSingleNode("entrenador");
                 EntrenadorObj.Nom = entrenadorNode.SelectSingleNode("nom").InnerText;
@@ -51,15 +53,8 @@ namespace Proves1.model
                 }
 
                 Club.Jugadors = jugadores;
-                bres = true;
-                if (bres)
-                {
-                    Console.WriteLine("El archivo XML se cargó correctamente.");
-                }
+                Clubs.Add(Club);
             }
-
-
-
             return bres;
         }
     }
