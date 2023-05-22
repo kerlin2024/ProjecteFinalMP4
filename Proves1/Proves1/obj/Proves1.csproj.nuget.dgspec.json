@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerlyn.murillo\\source\\repos\\Proves1\\Proves1\\Proves1.csproj": {}
+    "C:\\Users\\kerlyn.murillo\\Desktop\\1r DAW\\MP04 Llenguatge de Marques\\ProjecteFinal\\ProjecteFinalMP4\\Proves1\\Proves1\\Proves1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerlyn.murillo\\source\\repos\\Proves1\\Proves1\\Proves1.csproj": {
+    "C:\\Users\\kerlyn.murillo\\Desktop\\1r DAW\\MP04 Llenguatge de Marques\\ProjecteFinal\\ProjecteFinalMP4\\Proves1\\Proves1\\Proves1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerlyn.murillo\\source\\repos\\Proves1\\Proves1\\Proves1.csproj",
+        "projectUniqueName": "C:\\Users\\kerlyn.murillo\\Desktop\\1r DAW\\MP04 Llenguatge de Marques\\ProjecteFinal\\ProjecteFinalMP4\\Proves1\\Proves1\\Proves1.csproj",
         "projectName": "Proves1",
-        "projectPath": "C:\\Users\\kerlyn.murillo\\source\\repos\\Proves1\\Proves1\\Proves1.csproj",
+        "projectPath": "C:\\Users\\kerlyn.murillo\\Desktop\\1r DAW\\MP04 Llenguatge de Marques\\ProjecteFinal\\ProjecteFinalMP4\\Proves1\\Proves1\\Proves1.csproj",
         "packagesPath": "C:\\Users\\kerlyn.murillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerlyn.murillo\\source\\repos\\Proves1\\Proves1\\obj\\",
+        "outputPath": "C:\\Users\\kerlyn.murillo\\Desktop\\1r DAW\\MP04 Llenguatge de Marques\\ProjecteFinal\\ProjecteFinalMP4\\Proves1\\Proves1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerlyn.murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
