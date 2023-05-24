@@ -61,6 +61,23 @@ namespace Proves1.model
             return bres;
         }
 
+        public static bool EnviarDadesDDBB()
+        {
+            bool Bres = false;
+            try
+            {
+                foreach(var club in Clubs)
+                {
+                    int idClub = DbConection.EnviarDades(club);
+                    foreach(var jugadorNode in Clubs.Jugadors)
+                    {
+                        DbConection.InsertJugadors(idClub, jugadorNode);
+                    }
+                }
+            } catch { }
+            return Bres;
+        }
+
         
     }
 

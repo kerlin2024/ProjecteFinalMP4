@@ -42,5 +42,15 @@ namespace Proves1.model
                 Console.WriteLine("Desconecció Completada");
             }
         }
+
+        internal static int EnviarDades(Club club)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static void InsertJugadors(int idClub, object jugadorNode)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
