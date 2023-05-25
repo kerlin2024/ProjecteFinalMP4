@@ -25,11 +25,12 @@ namespace Proves1.model
                 Club Club = new Club();
                 Club.Nom = club.Attributes["nom"].Value;
                 Club.Divisio = int.Parse(club.Attributes["divisio"].Value);
-                Club.id = int.Parse(club.Attributes["id"].Value);
+                Club.Id = int.Parse(club.Attributes["id"].Value);
                 Entrenador EntrenadorObj = new Entrenador();
                 XmlNode entrenadorNode = club.SelectSingleNode("entrenador");
                 EntrenadorObj.Nom = entrenadorNode.SelectSingleNode("nom").InnerText;
                 EntrenadorObj.Cognom = entrenadorNode.SelectSingleNode("cognom").InnerText;
+                EntrenadorObj.Id = int.Parse(entrenadorNode.SelectSingleNode("id").InnerText);
                 Club.Entrenador = EntrenadorObj;
 
                 XmlNode capitanNode = club.SelectSingleNode("jugadors/jugador[@capita='True']");
@@ -55,25 +56,27 @@ namespace Proves1.model
 
                 Club.Jugadors = jugadores;
                 Clubs.Add(Club);
-                DbConection.Connectar();
-                DbConection.Disconnect();
+                
             }
             return bres;
         }
 
         public static bool EnviarDadesDDBB()
         {
+            DbConection.Connectar();
             bool Bres = false;
             try
             {
                 foreach(var club in Clubs)
                 {
-                    int idClub = DbConection.EnviarDades(club);
-                    foreach(var jugadorNode in Clubs.Jugadors)
+                    int idClub = club.Id;
+                    DbConection.InsertClub(club);
+                    foreach(var jugadorNode in club.Jugadors)
                     {
                         DbConection.InsertJugadors(idClub, jugadorNode);
                     }
                 }
+                DbConection.Disconnect();
             } catch { }
             return Bres;
         }

@@ -5,6 +5,7 @@
         <entrenador>
             <nom>Carletto</nom>
             <cognom>Ancelotti</cognom>
+            <id>1</id>
         </entrenador>
         <jugadors>
             <jugador capita="True">
@@ -28,6 +29,7 @@
         <entrenador>
             <nom>Josep</nom>
             <cognom>Guardiola</cognom>
+            <id>2</id>
         </entrenador>
         <jugadors>
             <jugador capita="True">
@@ -51,6 +53,7 @@
         <entrenador>
             <nom>Marcelino</nom>
             <cognom>Garcia</cognom>
+            <id>3</id>
         </entrenador>
         <jugadors>
             <jugador capita="True">
@@ -74,6 +77,7 @@
         <entrenador>
             <nom>Pablo</nom>
             <cognom>Machin</cognom>
+            <id>4</id>
         </entrenador>
         <jugadors>
             <jugador capita="True">

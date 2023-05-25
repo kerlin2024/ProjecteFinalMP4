@@ -16,6 +16,7 @@ namespace Proves1
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 Lliga.carregarModel(openFileDialog.FileName);
+                Lliga.EnviarDadesDDBB();
             }
         }
 

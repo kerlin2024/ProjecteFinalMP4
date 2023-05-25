@@ -10,5 +10,9 @@ namespace Proves1.model
     {
         public string Nom { get; set; }
         public string Cognom { get; set; }
+
+        public int Id { get; set; }
+
+        public Entrenador() { }
     }
 }
